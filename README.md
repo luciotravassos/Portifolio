@@ -1,4 +1,4 @@
-# Portifólio Lúcio Teixeira 
+# Portifólio
 <p align="Left">
 <img src='https://github.com/luciotravassos/Portifolio/blob/main/ti.jpg'>
  </p>
