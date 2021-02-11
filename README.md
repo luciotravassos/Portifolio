@@ -4,7 +4,7 @@
  </p>
 
 * Vivência em ambiente On Premise e Cloud de alta disponibilidade.
-# Especialista Sênior em Banco de Dados Relacionais e NOSQL.
-# Desenvolvedor Sênior em Python com foco em Banco de dados.
-# Profissional de alta performance em ambientes criticos.
-# Sysadmin Oracle EBS R12.
+* Especialista Sênior em Banco de Dados Relacionais e NOSQL.
+* Desenvolvedor Sênior em Python com foco em Banco de dados.
+* Profissional de alta performance em ambientes criticos.
+* Sysadmin Oracle EBS R12.
