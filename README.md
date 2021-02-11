@@ -11,4 +11,4 @@
 
 
 
-* * Overview de atividades Oracle e Sistema Operacional com Python :
+* * Overview de atividades Oracle e Sistema Operacional com Python : http://bit.do/oraclepy
