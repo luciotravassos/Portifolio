@@ -17,3 +17,4 @@
 
 
 * * Overview de atividades Oracle e Sistema Operacional com Python : http://bit.do/oraclepy
+* * Amostra de operações com PL/SQL : http://bit.do/plsqlgit
