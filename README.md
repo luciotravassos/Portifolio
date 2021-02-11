@@ -9,11 +9,15 @@
  </p>
   * Background em : Database, Python, SQL, PL/SQL, Script Shell, Finanças, Sistemas Operacionais.
   
-  Vivência em ambientes On-Premises e Cloud de alta disponibilidade.
-  Especialista Sênior em Banco de Dados Relacionais e NOSQL.
-  Desenvolvedor Sênior em Python com foco em Banco de dados.
-  Profissional de alta performance em ambientes criticos.
-  Sysadmin Oracle EBS R12.
+  * Vivência em ambientes On-Premises e Cloud de alta disponibilidade.
+  
+  * Especialista Sênior em Banco de Dados Relacionais e NOSQL.
+  
+  * Desenvolvedor Sênior em Python com foco em Banco de dados.
+  
+  * Profissional de alta performance em ambientes criticos.
+  
+  * Sysadmin Oracle EBS R12.
 
 * Amostragem de algumas atividades e possibilidades realizadas por mim:
 
