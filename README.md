@@ -18,4 +18,4 @@
 
 * * Overview de atividades Oracle e Sistema Operacional com Python : http://bit.do/oraclepy
 * * Amostra de operações com PL/SQL : http://bit.do/plsqlgit
-** Mercado Financeiro com Python : http://bit.do/finyipnb
+* * Mercado Financeiro com Python : http://bit.do/finyipnb
